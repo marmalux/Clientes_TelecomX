@@ -19,6 +19,8 @@ La ejecución del proyecto se puede hacer en Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marmalux/Clientes_TelecomX/blob/main/Clientes_TelecomX.ipynb)
 
+**Nota** Las imagenes en el apartado de reporte final pueden no cargarse correctamente.
+
 ## Resultados a tomar en cuenta
 ### categorías personales
 ![Servicio de internet](https://raw.githubusercontent.com/marmalux/Clientes_TelecomX/refs/heads/main/images/categorias_personas_resultado.png)
